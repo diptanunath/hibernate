@@ -1,5 +1,7 @@
 package com.javatpoint;
 
+import java.util.List;
+
 import org.hibernate.*;
 import org.hibernate.cfg.*;
 
@@ -15,7 +17,8 @@ public static void main(String[] args) {
 	System.out.println(e1);
 	e1.seteMail("d@gmail.com");
 	System.out.println(e1);
-
+	Query query=session.createQuery("from user");//here persistent class name is Emp  
+	List list=query.list();  
 	session.persist(e1);
 	
 
