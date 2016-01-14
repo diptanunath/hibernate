@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="D:/Selenium/mysql-connector-java-5.1.36/mysql-connector-java-5.1.36-bin.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/mysql-connector-java-5.1.36/src/lib/c3p0-0.9.1-pre6.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/mysql-connector-java-5.1.36/src/lib/jboss-common-jdbc-wrapper.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/mysql-connector-java-5.1.36/src/lib/jboss-common-jdbc-wrapper-src.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/mysql-connector-java-5.1.36/src/lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/hibernatejar/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/hibernatejar/asm.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/hibernatejar/asm-attrs.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/hibernatejar/c3p0-0.9.1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/hibernatejar/cglib-2.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/hibernatejar/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/hibernatejar/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/hibernatejar/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/hibernatejar/ehcache-1.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/hibernatejar/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/hibernatejar/hibernate3.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/hibernatejar/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/hibernatejar/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/hibernatejar/hibernate-validator.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/hibernatejar/jdbc2_0-stdext.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/hibernatejar/jta.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/hibernatejar/log4j-1.2.11.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/hibernatejar/xerces-2.6.2.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium/com.mysql.jdbc_5.1.5.jar/com.mysql.jdbc_5.1.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
